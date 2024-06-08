@@ -3,3 +3,8 @@ openai
 python-dotenv
 pandas
 openpyxl
+langchain 
+langchain-community 
+groq 
+faiss-cpu 
+ollama 
